@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { useNavigation, NavigationProp } from '@react-navigation/native'
 import RootStackParamList from './type';
 //hello
+//hello by ayush
 
 // import axios from 'axios';
 
